@@ -1,6 +1,6 @@
 # FinalProject-VideoDownloader
 
-This build a web crawler that download videos from a given link on video platform youtube and given keywords by youtube-dl. Then, trim the video and keep the important content of the video and discard the rest of the video by scenedetect(detect-content)
+This build a web crawler that download videos from a given keywords on video platform youtube by youtube-dl. Then, trim the video and keep the important content of the video and discard the rest of the video by scenedetect(detect-content)
 
 I used the JavaFX as the GUI include botton, textfile, and listView to input the keywords, search the keywords, split the video about this keywords and remind user videos are downloaded. 
 
